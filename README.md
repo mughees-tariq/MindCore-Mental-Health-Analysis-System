@@ -12,6 +12,9 @@ Try the mental health classifier instantly in your browser — no installation n
 
 **👉 [MindCore on Hugging Face Spaces](https://huggingface.co/spaces/mughees-tariq/mindcore)**
 
+![Model Demo Screen](Images/modelDemoScreen.png)
+*Model running on huggingface spaces*
+
 ---
 
 ## 📸 Screenshots
